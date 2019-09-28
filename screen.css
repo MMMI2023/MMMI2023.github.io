@@ -35,6 +35,9 @@ h1, h2, h3, h4 {
 p {
 	margin:.4em 0 .8em 0;
 }
+strong {
+	color:#c00;
+}
 img {
 	margin:10px 0 5px;
 }
